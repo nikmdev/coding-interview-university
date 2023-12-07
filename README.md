@@ -355,7 +355,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
 Your choice:
 
 - Goodrich, Tamassia, Goldwasser
-    - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+    - [ and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
 - Sedgewick and Wayne:
     - [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
     - Free Coursera course that covers the book (taught by the authors!):
@@ -367,7 +367,7 @@ Your choice:
 Your choice:
 
 - Goodrich, Tamassia, and Mount
-    - [Data Structures and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
+    - [ and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
 - Sedgewick and Wayne
     - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
     - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
@@ -444,7 +444,7 @@ Some students have mentioned formatting issues with white space that can be fixe
 
 THIS IS VERY IMPORTANT.
 
-Start doing coding interview questions while you're learning data structures and algorithms.
+Start doing coding interview questions while you're learning  and algorithms.
 
 You need to apply what you're learning to solve problems, or you'll forget. I made this mistake.
 
@@ -495,7 +495,7 @@ You don't need to memorize every algorithm. You just need to be able to understa
 [Then go back and read this.](#3-do-coding-interview-questions-while-youre-learning)
 
 Why you need to practice doing programming problems:
-- Problem recognition, and where the right data structures and algorithms fit in
+- Problem recognition, and where the right  and algorithms fit in
 - Gathering requirements for the problem
 - Talking your way through the problem like you will in the interview
 - Coding on a whiteboard or paper, not a computer
@@ -579,7 +579,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 ## Data Structures
 
 - ### Arrays
-    - [ ] About Arrays:
+    - [X] About Arrays:
     	- [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
